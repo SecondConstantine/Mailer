@@ -6,7 +6,7 @@ appUrl=test
 
 fileFolderUrl=test
 
-sender=test <test@test.by>
+sender=test
 
 login=test
 
