@@ -1,6 +1,7 @@
 .idea/
 target/
 tmp/
+src/main/resources/app.properties
 src/main/webapp/WEB-INF/jboss-web.xml
 nb-configuration.xml
 /target
